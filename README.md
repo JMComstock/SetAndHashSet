@@ -1,4 +1,4 @@
-# SetandHasSet
+# SetandHashSet
 
 When overriding the equals() method in the HeavenlyBody class, it was made sure
 that it would not return true if a HeavenlyBody was compared to a subclass of itself.
